@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ArrayList</string>
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_buah">Buah</string>
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_hewan">Hewan</string>
+
+</resources>
